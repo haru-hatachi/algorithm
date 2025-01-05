@@ -1,4 +1,5 @@
-kazu = 8964
+import sys
+kazu = int(sys.argv[1])
 sosu = [2]
 soinsu = []
 ban = 0
